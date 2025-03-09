@@ -1,7 +1,5 @@
 package br.ce.wcaquino.servicos;
 
-
-
 import java.util.Date;
 
 import org.junit.Assert;
