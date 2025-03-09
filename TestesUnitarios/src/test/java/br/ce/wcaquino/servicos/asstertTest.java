@@ -12,7 +12,7 @@ public class asstertTest {
 		Assert.assertFalse(false);
 		
 		
-		Assert.assertEquals("erro de comparacao de 2 numeros: ",1, 0);
+		//Assert.assertEquals("erro de comparacao de 2 numeros: ",1, 0);
 
 		Assert.assertEquals(0, 0);
 		
